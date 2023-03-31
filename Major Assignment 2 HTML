@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Valorant: The Ultimate Guide</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+
+  <h1>Valorant: The Radiant Guide</h1>
+  <body>
+    <div class="navbar">
+      <a href="#home">Home</a>
+      <a href="#about">About Us</a>
+      <a href="#contact">Contact</a>
+      </div>
+    
+
+    <div class="roles-grid">
+      <div class="role">
+        <img class="role-image" src="https://cdn.thespike.gg/Onur%2FDuelist-SEO_1665078969015.jpg" alt="Duelist">
+        <div class="role-description">
+          <h2>Duelist</h2>
+          <p>Duelists are the aggressive front-line fighters of the team.
+             They are typically the first ones to engage the enemy and try to create
+              openings for their team to follow up on. Duelists have abilities that 
+              allow them to move quickly and take on enemies one-on-one.
+            <br><br>
+            If you want to instalock, bait your teamates, be the last one on site and 
+            become an all around detriment to the team play this class. </p>
+        </div>
+      </div>
+
+      <div class="role">
+        <img class="role-image" src="https://cdn.thespike.gg/Onur%2FController-Agents-SEO_1664901104132.jpg" alt="Controller">
+        <div class="role-description">
+          <h2>Controller</h2>
+          <p>Controllers are the masters of territory and crowd control. 
+            They have abilities that allow them to block off areas of the map, 
+            slow down enemies, and gather information about the enemy team. 
+            Controllers excel at playing defensively and can help their team 
+            establish a strong position on the map.
+            <br><br>
+            Nobody wants to play this class willingly and the unlucky person that does play it will have the boring role of pressing E a couple times a round at the same un-uniqe points. 
+        
+        
+        </p>
+        </div>
+      </div>
+
+      <div class="role">
+        <img class="role-image" src="https://cdn.thespike.gg/SEO%2FHow-to-play-sentinels_1664204490364.jpg" alt="Sentinel">
+        <div class="role-description">
+          <h2>Sentinel</h2>
+          <p>Sentinels are the protectors of the team. 
+            They have abilities that allow them to heal their teammates, 
+            revive fallen allies, and prevent enemies from sneaking up on the team. 
+            Sentinels are typically played in a supportive role and can help keep their 
+            team alive and healthy.
+        <br><br>
+        Play this role if you are secretly the best player on the team. Unless you're sage then you'll get your res round 4 and procede to never use it the entire half. 
+        </p>
+        </div>
+      </div>
+
+      <div class="role">
+        <img class="role-image" src="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/01/pjimage-(4).jpg" alt="Initiator">
+        <div class="role-description">
+          <h2>Initiator</h2>
+          <p>Initiators are the masters of disruption. 
+            They have abilities that allow them to stun or blind enemies, 
+            gather information about the enemy team, and create openings for their team 
+            to take advantage of. Initiators are typically played in a 
+            more tactical role and can help their team gain an advantage 
+            by disrupting the enemy team's plans.</p>
+            <br><br>
+            If you want the entire enemy team to hate you play this class. With the constant flashes,stuns, and nearsights you'll be the bain of their existance. Or you can play sova..........
+
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
